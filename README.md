@@ -9,8 +9,8 @@
 
 - 📄 Know about my experiences [https://www.shailynmoore.com/resume.html](https://www.shailynmoore.com/resume.html)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@shaitech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shaitech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shailyn-moore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shailyn-moore/" height="30" width="40" /></a>
 </p>

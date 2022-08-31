@@ -1,4 +1,4 @@
-# mshailyn<h1 align="center">Hi 👋, I'm Shailyn</h1>
+![Alt text](hi.gif) / ![](hi.gif)
 <h3 align="center">A passionate full-stack developer from Los Angeles,CA</h3>
 
 - 🔭 I’m currently working on **building a website for a local non-profit organization.**

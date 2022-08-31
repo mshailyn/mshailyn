@@ -1,4 +1,4 @@
-<h1 align="center"><img  width=50% height=50% src="profile.gif" alt="animated" /></h1>
+<h1 align="center"><img  width=75% height=75% src="profile.gif" alt="animated" /></h1>
 <h3 align="center">A passionate full-stack developer from Los Angeles,CA</h3>
 
 - 🔭 I’m currently working on **building a website for a local non-profit organization.**

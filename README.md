@@ -1,4 +1,4 @@
-!['gif saying "Hi I'm Shailyn!"](profile.gif)
+<p align="center"><img src="profile.gif" alt="animated" /></p>
 <h3 align="center">A passionate full-stack developer from Los Angeles,CA</h3>
 
 - 🔭 I’m currently working on **building a website for a local non-profit organization.**

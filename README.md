@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.shailynmoore.com/resume.html](https://www.shailynmoore.com/resume.html)
 
-- ⚡ A fun fact about me is **I love 8-bit art and cats so may see little influences in my personal projects.**
+- ⚡ A fun fact about me is **I love 8-bit art and cats so you may see little influences of both in my personal projects.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
